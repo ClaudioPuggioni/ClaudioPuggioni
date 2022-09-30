@@ -1,8 +1,8 @@
 <br/>
 
-### Hi there 👋, I'm Claudio Puggioni
+<h3>Hi there 👋, I'm Claudio Puggioni</h3>
 
-I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
+<h3>I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.</h3>
 
 <br/>
 
