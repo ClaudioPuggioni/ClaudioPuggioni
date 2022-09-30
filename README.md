@@ -67,6 +67,29 @@ This is a simple front-end game app made using React.
     <img src = "memoryGame\memoryGame2.png" alt = "memory game 2" width="48%"/> 
 </div>
 <br/>
+
+### <a href="https://gifufy.netlify.app/">**GIFUFY Gif Search**</a>
+
+**Built using:**
+
+- HTML5
+- CSS3
+- Javascript
+
+#### About
+
+<a href="https://github.com/McLaren-College/day-17---gifufy_gif-browser-ClaudioPuggioni">_GIFUFY Gif Search Repository_</a>
+
+This is a simple front-end game app made using React.
+
+#### Screenshots
+
+<div style="dispaly: flex: justify-content: center">
+    <img src = "gifufy\gifufy1.png" alt = "gifufy 1" width="48%"/> 
+    <img src = "gifufy\gifufy2.png" alt = "gifufy 2" width="48%"/> 
+    <img src = "gifufy\gifufy3.png" alt = "gifufy 3" width="48%"/> 
+</div>
+<br/>
  
  ## Education
 ###  McLaren College
