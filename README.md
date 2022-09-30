@@ -48,8 +48,6 @@ I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
 
 ## <p align=center >Personal Projects</p>
 
-<br/>
-
 ### <a href="https://fruitful-memory-game.netlify.app/">Memory Game</a>
 
 **Built using:**
@@ -78,7 +76,9 @@ This is a simple front-end game app made using React.
 - **Program: MERN Course**
 - **Period: June 2022 - Sept 2022 (3 Months)**
 
-### Stats
+<br/>
+
+## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioPuggioni)](https://github.com/anuraghazra/github-readme-stats)
 
