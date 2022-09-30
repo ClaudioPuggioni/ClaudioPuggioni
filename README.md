@@ -104,6 +104,7 @@ An app made using only html/css/js with an external API.
 #### About
 
 <a href="https://github.com/ClaudioPuggioni/tictactoe-multiplayer">_Tic Tac Toe Frontend Repository_</a>
+<br/>
 <a href="https://github.com/ClaudioPuggioni/tic-tac-toe-backend">_Tic Tac Toe Backend Repository_</a>
 
 Tic tac toe game app with single player mode or multiplayer, using Express server and Socket.io for multiplayer game management.
