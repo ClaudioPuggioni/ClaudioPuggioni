@@ -90,6 +90,32 @@ An app made using only html/css/js with an external API.
     <img src = "gifufy\gifufy3.png" alt = "gifufy 3" width="48%"/> 
 </div>
 <br/>
+
+### <a href="https://tictactoe-slap.netlify.app/">**Tic Tac Toe Single/Multiplayer Game**</a>
+
+**Built using:**
+
+- React.js
+- Redux
+- Socket.io
+- Howler
+- Express.js
+
+#### About
+
+<a href="https://github.com/McLaren-College/day-17---gifufy_gif-browser-ClaudioPuggioni">_GIFUFY Gif Search Repository_</a>
+
+Tic tac toe game app with single player mode or multiplayer, using Express server and Socket.io for multiplayer game management.
+
+#### Screenshots
+
+<div style="dispaly: flex: justify-content: center">
+    <img src = "ticTacToe\ticTacToe1.png" alt = "ticTacToe 1" width="48%"/> 
+    <img src = "ticTacToe\ticTacToe2.png" alt = "ticTacToe 2" width="48%"/> 
+    <img src = "ticTacToe\ticTacToe3.png" alt = "ticTacToe 3" width="48%"/>
+    <img src = "ticTacToe\ticTacToe4.png" alt = "ticTacToe 4" width="48%"/> 
+</div>
+<br/>
  
  ## Education
 ###  McLaren College
