@@ -21,6 +21,8 @@ I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
   <img src=" https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
+<br/>
+
 ### Current Languages / Frameworks / Libraries
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
