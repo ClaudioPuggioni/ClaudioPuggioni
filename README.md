@@ -107,7 +107,7 @@ An app made using only html/css/js with an external API.
 <br/>
 <a href="https://github.com/ClaudioPuggioni/tic-tac-toe-backend">_Tic Tac Toe Backend Repository_</a>
 
-Tic tac toe game app with single-device mode or multi-device mode, using Express server and Socket.io for multiplayer game management.
+Tic tac toe game app with single-device mode or multi-device mode, using Express server and Socket.io for multi-device multiplayer game management.
 
 #### Screenshots
 
