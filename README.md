@@ -48,7 +48,7 @@
 
 ## <p align=center >Personal Projects</p>
 
-### <a href="https://fruitful-memory-game.netlify.app/">Memory Game</a>
+### <a href="https://fruitful-memory-game.netlify.app/">**Memory Game**</a>
 
 **Built using:**
 
