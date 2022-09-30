@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Claudio Puggioni
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
 
