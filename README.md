@@ -1,6 +1,10 @@
+<br/>
+
 ### Hi there 👋, I'm Claudio Puggioni
 
 I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
+
+<br/>
 
 <h2>Connect With Me</h2>
 
@@ -36,6 +40,8 @@ I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<br/>
+
 ---
 
 ## <p align=center >Personal Projects</p>
@@ -60,8 +66,8 @@ This is a simple front-end game app made using React.
 </div>
 <br/>
  
- ### Education
-####  McLaren College
+ ## Education
+###  McLaren College
 - **Program: Data Structures & Algorithms**
 - **Period: Dec 2021 - Jan 2022 (3 Months)**
 
