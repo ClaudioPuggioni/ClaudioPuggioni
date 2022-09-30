@@ -38,7 +38,7 @@ I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
 
 ---
 
-### <p align=center >Personal Projects</p>
+## <p align=center >Personal Projects</p>
 
 <br/>
 
