@@ -2,7 +2,6 @@
 
 I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
 
-
 <h2>Connect With Me</h2>
 
 <a href="mailto:pclaudio@proton.me">
@@ -18,7 +17,7 @@ I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
   <img src=" https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
- ### Current Languages / Frameworks / Libraries
+### Current Languages / Frameworks / Libraries
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -40,15 +39,19 @@ I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
 ---
 
 ### <p align=center >Personal Projects</p>
+
 <br/>
 
 ## <a href="https://fruitful-memory-game.netlify.app/">Memory Game</a>
+
 **Tech : ReactJS**
+
 #### About
+
 This is a simple front-end game app made using React.
 
-
 #### Screenshots
+
 <div style="dispaly: flex: justify-content: center">
 
 </div>
@@ -56,22 +59,24 @@ This is a simple front-end game app made using React.
  
  ## Education
 ###  McLaren College
+<div style="border:1px solid grey">
 - **Program: Data Structures & Algorithms**
 - **Period: Dec 2021 - Jan 2022 (3 Months)**
+</div>
 
+<div style="border:1px solid grey">
 - **Program: Full Stack Online Course**
 - **Period: June 2022 - Sept 2022 (3 Months)**
-
+</div>
  
  ---
 
 ### Stats
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ClaudioPuggioni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/claudio-puggioni-49013b1b2/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ClaudioPuggioni) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/claudio-puggioni-49013b1b2/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioPuggioni)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioPuggioni&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioPuggioni&show_icons=true)
 
- ---
-
+---
