@@ -42,7 +42,7 @@ I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
 
 <br/>
 
-## <a href="https://fruitful-memory-game.netlify.app/">Memory Game</a>
+### <a href="https://fruitful-memory-game.netlify.app/">Memory Game</a>
 
 **Built using:**
 
@@ -60,8 +60,8 @@ This is a simple front-end game app made using React.
 </div>
 <br/>
  
- ## Education
-###  McLaren College
+ ### Education
+####  McLaren College
 - **Program: Data Structures & Algorithms**
 - **Period: Dec 2021 - Jan 2022 (3 Months)**
 
