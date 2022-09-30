@@ -69,7 +69,8 @@ This is a simple front-end game app made using React.
 
 ### Stats
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter:invert(50%)'>](https://github.com/ClaudioPuggioni) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter:invert(50%)'>](https://www.linkedin.com/in/claudio-puggioni-49013b1b2/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter:invert(0.5)'>](https://github.com/ClaudioPuggioni)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter:invert(0/5)'>](https://www.linkedin.com/in/claudio-puggioni-49013b1b2/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioPuggioni)](https://github.com/anuraghazra/github-readme-stats)
 
