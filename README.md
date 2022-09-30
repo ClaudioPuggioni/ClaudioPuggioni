@@ -44,7 +44,9 @@ I am a Full Stack Developer, and I enjoy expanding my knowledge on the daily.
 
 ## <a href="https://fruitful-memory-game.netlify.app/">Memory Game</a>
 
-**Tech : ReactJS**
+**Built using:**
+
+- ReactJS
 
 #### About
 
