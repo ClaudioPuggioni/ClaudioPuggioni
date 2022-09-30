@@ -14,7 +14,7 @@
 <a href="mailto:craucraun@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/claudio-puggioni-49013b1b2">
+<a href="https://linkedin.com/in/claudio-puggioni">
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://t.me/udongoofd">
