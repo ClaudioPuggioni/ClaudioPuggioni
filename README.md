@@ -53,7 +53,8 @@ This is a simple front-end game app made using React.
 #### Screenshots
 
 <div style="dispaly: flex: justify-content: center">
-
+    <img src = "memoryGame\memoryGame1.png" alt = "memory game 1" width="48%"/> 
+    <img src = "memoryGame\memoryGame2.png" alt = "memory game 2" width="48%"/> 
 </div>
 <br/>
  
@@ -68,9 +69,6 @@ This is a simple front-end game app made using React.
 - **Period: June 2022 - Sept 2022 (3 Months)**
 
 ### Stats
-
-[<img src='https://www.iconsdb.com/icons/preview/gray/github-8-xxl.png' alt='github' height='40'>](https://github.com/ClaudioPuggioni)
-[<img src='https://www.iconsdb.com/icons/preview/gray/linkedin-3-xxl.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/claudio-puggioni-49013b1b2/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioPuggioni)](https://github.com/anuraghazra/github-readme-stats)
 
