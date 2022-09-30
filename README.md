@@ -59,17 +59,13 @@ This is a simple front-end game app made using React.
  
  ## Education
 ###  McLaren College
-<div style="border:1px solid grey">
 - **Program: Data Structures & Algorithms**
 - **Period: Dec 2021 - Jan 2022 (3 Months)**
-</div>
 
-<div style="border:1px solid grey">
+<br/>
+
 - **Program: Full Stack Online Course**
 - **Period: June 2022 - Sept 2022 (3 Months)**
-</div>
- 
- ---
 
 ### Stats
 
