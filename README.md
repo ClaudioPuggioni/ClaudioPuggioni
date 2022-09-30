@@ -58,6 +58,8 @@
 
 This is a simple front-end game app made using React.
 
+<a href="https://github.com/ClaudioPuggioni/memory-game">Memory Game Repository</a>
+
 #### Screenshots
 
 <div style="dispaly: flex: justify-content: center">
