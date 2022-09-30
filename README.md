@@ -80,7 +80,7 @@ This is a simple front-end game app made using React.
 
 <a href="https://github.com/McLaren-College/day-17---gifufy_gif-browser-ClaudioPuggioni">_GIFUFY Gif Search Repository_</a>
 
-This is a simple front-end game app made using React.
+An app made using only html/css/js with an external API.
 
 #### Screenshots
 
