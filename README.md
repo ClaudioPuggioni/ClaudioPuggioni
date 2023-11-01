@@ -20,6 +20,9 @@
 <a href="https://t.me/udongoofd">
   <img src=" https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
+<a href="mailto:claudio@devfix.pro">
+  <img src="https://img.shields.io/badge/Skiff%20Mail-black?style=for-the-badge&logo=mail.ru&logoColor=black&color=ef5a3c">
+</a>
 
 <br/>
 
