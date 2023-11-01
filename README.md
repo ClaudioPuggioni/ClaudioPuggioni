@@ -8,21 +8,12 @@
 
 <h2>Connect With Me</h2>
 
-<a href="mailto:pclaudio@proton.me">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
-</a>
-<a href="mailto:craucraun@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://linkedin.com/in/claudio-puggioni">
-  <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://t.me/udongoofd">
-  <img src=" https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="mailto:claudio@devfix.pro">
-  <img src="https://img.shields.io/badge/Skiff%20Mail-black?style=for-the-badge&logo=mail.ru&logoColor=black&color=ef5a3c">
-</a>
+<a href="mailto:claudio@devfix.pro"><img src="https://img.shields.io/badge/Skiff%20Mail-black?style=for-the-badge&logo=mail.ru&logoColor=black&color=ef5a3c"></a>
+<a href="mailto:pclaudio@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+<a href="mailto:craucraun@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/claudio-puggioni"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://t.me/udongoofd"><img src=" https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
 
 <br/>
 
@@ -65,7 +56,7 @@ This is a simple front-end game app made using React.
 
 #### Screenshots
 
-<div style="dispaly: flex: justify-content: center">
+<div style="display: flex; justify-content: center;">
     <img src = "memoryGame\memoryGame1.png" alt = "memory game 1" width="48%"/> 
     <img src = "memoryGame\memoryGame2.png" alt = "memory game 2" width="48%"/> 
 </div>
@@ -87,7 +78,7 @@ An app made using only html/css/js with an external API.
 
 #### Screenshots
 
-<div style="dispaly: flex: justify-content: center">
+<div style="display: flex; justify-content: center;">
     <img src = "gifufy\gifufy1.png" alt = "gifufy 1" width="48%"/> 
     <img src = "gifufy\gifufy2.png" alt = "gifufy 2" width="48%"/> 
     <img src = "gifufy\gifufy3.png" alt = "gifufy 3" width="48%"/> 
@@ -114,7 +105,7 @@ Tic tac toe game app with single-device mode or multi-device mode, using Express
 
 #### Screenshots
 
-<div style="dispaly: flex: justify-content: center">
+<div style="display: flex; justify-content: center;">
     <img src = "ticTacToe\ticTacToe1.png" alt = "ticTacToe 1" width="48%"/> 
     <img src = "ticTacToe\ticTacToe2.png" alt = "ticTacToe 2" width="48%"/> 
     <img src = "ticTacToe\ticTacToe3.png" alt = "ticTacToe 3" width="48%"/>
