@@ -131,4 +131,6 @@ Tic tac toe game app with single-device mode or multi-device mode, using Express
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioPuggioni&show_icons=true)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioPuggioni)](https://github.com/ClaudioPuggioni/github-readme-stats&show_icons=true)
+
 ---
